@@ -278,3 +278,20 @@ body {
     border-top:solid 2px #6E3482;  
     padding-top: 100px;
 }
+
+.footer a {
+    color: white;
+    margin: 0 10px;
+    font-size: 1.5rem;
+    text-decoration: none;
+    padding-top: 10px;
+}
+
+.footer a:hover {
+    color: #B2B6BA;
+}
+
+.footer p {
+    margin-bottom: 10px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
